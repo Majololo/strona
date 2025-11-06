@@ -74,4 +74,17 @@ table th {
    backgroung: #0000FF;
    padding: 32px;
    display: flex;
+    gap: 16px;
+    justify-content: center;
+}
+
+.circle-box > div{
+    width: 256px;
+    height: 256px:
+    border-radius: 100%
+    backgroung: #FFFFF;
+}
+
+.circle-box > div > p{
+
 }
