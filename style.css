@@ -83,9 +83,14 @@ table th {
     height: 256px:
     border-radius: 100%
     backgroung: #FFFFF;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
 }
 
 .circle-box > div > p{
     color: #FF0000
 }
+
 
